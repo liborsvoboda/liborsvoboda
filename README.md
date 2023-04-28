@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![LiborSvoboda's github stats](https://github-readme-stats.vercel.app/api?username=liborsvoboda&show_icons=true&theme=dracula&count_private=true)
+
 <!--
 **liborsvoboda/liborsvoboda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
